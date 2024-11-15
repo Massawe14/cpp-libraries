@@ -111,7 +111,7 @@ cpp-libraries/
 │   ├── src/
 │   │   └── tcp_proxy_server.cpp
 │   └── tests/
-│       └── test_tcp_proxy_server.cpp
+│       └── main.cpp
 │
 ├── MessageFragmenter/
 │   ├── include/
@@ -119,15 +119,15 @@ cpp-libraries/
 │   ├── src/
 │   │   └── message_fragmenter.cpp
 │   └── tests/
-│       └── test_message_fragmenter.cpp
+│       └── main.cpp
 │
 ├── SQLLibrary/
 │   ├── include/
-│   │   └── sql_library.h
+│   │   └── sql_builder.h
 │   ├── src/
-│   │   └── sql_library.cpp
+│   │   └── sql_builder.cpp
 │   └── tests/
-│       └── test_sql_library.cpp
+│       └── main.cpp
 │
 ├── README.md
 └── LICENSE
