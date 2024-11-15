@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/MASSAWE/cpp-libraries/build/MessageFragmentationLibrary",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/MessageFragmentationLibrary.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MessageFragmentationLibrary.dir\\src\\message_fragmenter.cpp.obj -c C:\\Users\\MASSAWE\\cpp-libraries\\MessageFragmentationLibrary\\src\\message_fragmenter.cpp",
+  "file": "C:/Users/MASSAWE/cpp-libraries/MessageFragmentationLibrary/src/message_fragmenter.cpp",
+  "output": "MessageFragmentationLibrary/CMakeFiles/MessageFragmentationLibrary.dir/src/message_fragmenter.cpp.obj"
+},
+{
+  "directory": "C:/Users/MASSAWE/cpp-libraries/build/MessageFragmentationLibrary",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/test_MessageFragmentationLibrary.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\test_MessageFragmentationLibrary.dir\\tests\\main.cpp.obj -c C:\\Users\\MASSAWE\\cpp-libraries\\MessageFragmentationLibrary\\tests\\main.cpp",
+  "file": "C:/Users/MASSAWE/cpp-libraries/MessageFragmentationLibrary/tests/main.cpp",
+  "output": "MessageFragmentationLibrary/CMakeFiles/test_MessageFragmentationLibrary.dir/tests/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/MASSAWE/cpp-libraries/build/SQLBuilderLibrary",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SQLBuilderLibrary.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SQLBuilderLibrary.dir\\src\\sql_builder.cpp.obj -c C:\\Users\\MASSAWE\\cpp-libraries\\SQLBuilderLibrary\\src\\sql_builder.cpp",
+  "file": "C:/Users/MASSAWE/cpp-libraries/SQLBuilderLibrary/src/sql_builder.cpp",
+  "output": "SQLBuilderLibrary/CMakeFiles/SQLBuilderLibrary.dir/src/sql_builder.cpp.obj"
+},
+{
+  "directory": "C:/Users/MASSAWE/cpp-libraries/build/SQLBuilderLibrary",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/test_SQLBuilderLibrary.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\test_SQLBuilderLibrary.dir\\tests\\main.cpp.obj -c C:\\Users\\MASSAWE\\cpp-libraries\\SQLBuilderLibrary\\tests\\main.cpp",
+  "file": "C:/Users/MASSAWE/cpp-libraries/SQLBuilderLibrary/tests/main.cpp",
+  "output": "SQLBuilderLibrary/CMakeFiles/test_SQLBuilderLibrary.dir/tests/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/MASSAWE/cpp-libraries/build/TCPProxyServer",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TCPProxyServer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\TCPProxyServer.dir\\src\\tcp_proxy_server.cpp.obj -c C:\\Users\\MASSAWE\\cpp-libraries\\TCPProxyServer\\src\\tcp_proxy_server.cpp",
+  "file": "C:/Users/MASSAWE/cpp-libraries/TCPProxyServer/src/tcp_proxy_server.cpp",
+  "output": "TCPProxyServer/CMakeFiles/TCPProxyServer.dir/src/tcp_proxy_server.cpp.obj"
+},
+{
+  "directory": "C:/Users/MASSAWE/cpp-libraries/build/TCPProxyServer",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/test_TCPProxyServer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\test_TCPProxyServer.dir\\tests\\main.cpp.obj -c C:\\Users\\MASSAWE\\cpp-libraries\\TCPProxyServer\\tests\\main.cpp",
+  "file": "C:/Users/MASSAWE/cpp-libraries/TCPProxyServer/tests/main.cpp",
+  "output": "TCPProxyServer/CMakeFiles/test_TCPProxyServer.dir/tests/main.cpp.obj"
+}
+]

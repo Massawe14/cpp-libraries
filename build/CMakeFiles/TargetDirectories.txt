@@ -1,0 +1,14 @@
+C:/Users/MASSAWE/cpp-libraries/build/CMakeFiles/edit_cache.dir
+C:/Users/MASSAWE/cpp-libraries/build/CMakeFiles/rebuild_cache.dir
+C:/Users/MASSAWE/cpp-libraries/build/MessageFragmentationLibrary/CMakeFiles/MessageFragmentationLibrary.dir
+C:/Users/MASSAWE/cpp-libraries/build/MessageFragmentationLibrary/CMakeFiles/test_MessageFragmentationLibrary.dir
+C:/Users/MASSAWE/cpp-libraries/build/MessageFragmentationLibrary/CMakeFiles/edit_cache.dir
+C:/Users/MASSAWE/cpp-libraries/build/MessageFragmentationLibrary/CMakeFiles/rebuild_cache.dir
+C:/Users/MASSAWE/cpp-libraries/build/SQLBuilderLibrary/CMakeFiles/SQLBuilderLibrary.dir
+C:/Users/MASSAWE/cpp-libraries/build/SQLBuilderLibrary/CMakeFiles/test_SQLBuilderLibrary.dir
+C:/Users/MASSAWE/cpp-libraries/build/SQLBuilderLibrary/CMakeFiles/edit_cache.dir
+C:/Users/MASSAWE/cpp-libraries/build/SQLBuilderLibrary/CMakeFiles/rebuild_cache.dir
+C:/Users/MASSAWE/cpp-libraries/build/TCPProxyServer/CMakeFiles/TCPProxyServer.dir
+C:/Users/MASSAWE/cpp-libraries/build/TCPProxyServer/CMakeFiles/test_TCPProxyServer.dir
+C:/Users/MASSAWE/cpp-libraries/build/TCPProxyServer/CMakeFiles/edit_cache.dir
+C:/Users/MASSAWE/cpp-libraries/build/TCPProxyServer/CMakeFiles/rebuild_cache.dir

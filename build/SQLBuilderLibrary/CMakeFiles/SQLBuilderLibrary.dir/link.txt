@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libSQLBuilderLibrary.a CMakeFiles/SQLBuilderLibrary.dir/src/sql_builder.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libSQLBuilderLibrary.a

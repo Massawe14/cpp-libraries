@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libMessageFragmentationLibrary.a CMakeFiles/MessageFragmentationLibrary.dir/src/message_fragmenter.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libMessageFragmentationLibrary.a

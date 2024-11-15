@@ -1,0 +1,153 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.31.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "MessageFragmentationLibrary",
+					"jsonFile" : "directory-MessageFragmentationLibrary-Debug-5d887ccab9b57c5c2f6a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.31.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MessageFragmentationLibrary",
+					"targetIndexes" : 
+					[
+						0,
+						3
+					]
+				},
+				{
+					"build" : "SQLBuilderLibrary",
+					"jsonFile" : "directory-SQLBuilderLibrary-Debug-05d3874cdc16c0b5d7cf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.31.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "SQLBuilderLibrary",
+					"targetIndexes" : 
+					[
+						1,
+						4
+					]
+				},
+				{
+					"build" : "TCPProxyServer",
+					"jsonFile" : "directory-TCPProxyServer-Debug-c64793ce1d5d0602f749.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.31.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "TCPProxyServer",
+					"targetIndexes" : 
+					[
+						2,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "CPPLibraries",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "MessageFragmentationLibrary::@4ed3cc754fea1dc9f33f",
+					"jsonFile" : "target-MessageFragmentationLibrary-Debug-61615bb5ef51563becec.json",
+					"name" : "MessageFragmentationLibrary",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "SQLBuilderLibrary::@54bc9e91cd03188d5b08",
+					"jsonFile" : "target-SQLBuilderLibrary-Debug-6fd6a955d8f58b0b48c3.json",
+					"name" : "SQLBuilderLibrary",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "TCPProxyServer::@0a6356b3d0185fcb4c25",
+					"jsonFile" : "target-TCPProxyServer-Debug-ad3601fee1185f7251b4.json",
+					"name" : "TCPProxyServer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "test_MessageFragmentationLibrary::@4ed3cc754fea1dc9f33f",
+					"jsonFile" : "target-test_MessageFragmentationLibrary-Debug-f5b06bfe81dfe2f140c9.json",
+					"name" : "test_MessageFragmentationLibrary",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_SQLBuilderLibrary::@54bc9e91cd03188d5b08",
+					"jsonFile" : "target-test_SQLBuilderLibrary-Debug-bb7b9f5ebce74da6fd42.json",
+					"name" : "test_SQLBuilderLibrary",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_TCPProxyServer::@0a6356b3d0185fcb4c25",
+					"jsonFile" : "target-test_TCPProxyServer-Debug-ffa47612237ce9b0add9.json",
+					"name" : "test_TCPProxyServer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/MASSAWE/cpp-libraries/build",
+		"source" : "C:/Users/MASSAWE/cpp-libraries"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libTCPProxyServer.a CMakeFiles/TCPProxyServer.dir/src/tcp_proxy_server.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libTCPProxyServer.a
